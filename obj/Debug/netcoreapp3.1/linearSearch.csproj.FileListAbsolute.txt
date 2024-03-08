@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\datastructure\linearSearch\bin\Debug\netcoreapp3.1\linearSearch.exe
+C:\Users\hp\source\repos\datastructure\linearSearch\bin\Debug\netcoreapp3.1\linearSearch.deps.json
+C:\Users\hp\source\repos\datastructure\linearSearch\bin\Debug\netcoreapp3.1\linearSearch.runtimeconfig.json
+C:\Users\hp\source\repos\datastructure\linearSearch\bin\Debug\netcoreapp3.1\linearSearch.runtimeconfig.dev.json
+C:\Users\hp\source\repos\datastructure\linearSearch\bin\Debug\netcoreapp3.1\linearSearch.dll
+C:\Users\hp\source\repos\datastructure\linearSearch\bin\Debug\netcoreapp3.1\linearSearch.pdb
+C:\Users\hp\source\repos\datastructure\linearSearch\obj\Debug\netcoreapp3.1\linearSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\datastructure\linearSearch\obj\Debug\netcoreapp3.1\linearSearch.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\datastructure\linearSearch\obj\Debug\netcoreapp3.1\linearSearch.AssemblyInfo.cs
+C:\Users\hp\source\repos\datastructure\linearSearch\obj\Debug\netcoreapp3.1\linearSearch.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\datastructure\linearSearch\obj\Debug\netcoreapp3.1\linearSearch.dll
+C:\Users\hp\source\repos\datastructure\linearSearch\obj\Debug\netcoreapp3.1\linearSearch.pdb
+C:\Users\hp\source\repos\datastructure\linearSearch\obj\Debug\netcoreapp3.1\linearSearch.genruntimeconfig.cache
