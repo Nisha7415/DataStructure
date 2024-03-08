@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\datastructure\binarySearch\bin\Debug\netcoreapp3.1\binarySearch.exe
+C:\Users\hp\source\repos\datastructure\binarySearch\bin\Debug\netcoreapp3.1\binarySearch.deps.json
+C:\Users\hp\source\repos\datastructure\binarySearch\bin\Debug\netcoreapp3.1\binarySearch.runtimeconfig.json
+C:\Users\hp\source\repos\datastructure\binarySearch\bin\Debug\netcoreapp3.1\binarySearch.runtimeconfig.dev.json
+C:\Users\hp\source\repos\datastructure\binarySearch\bin\Debug\netcoreapp3.1\binarySearch.dll
+C:\Users\hp\source\repos\datastructure\binarySearch\bin\Debug\netcoreapp3.1\binarySearch.pdb
+C:\Users\hp\source\repos\datastructure\binarySearch\obj\Debug\netcoreapp3.1\binarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\datastructure\binarySearch\obj\Debug\netcoreapp3.1\binarySearch.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\datastructure\binarySearch\obj\Debug\netcoreapp3.1\binarySearch.AssemblyInfo.cs
+C:\Users\hp\source\repos\datastructure\binarySearch\obj\Debug\netcoreapp3.1\binarySearch.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\datastructure\binarySearch\obj\Debug\netcoreapp3.1\binarySearch.dll
+C:\Users\hp\source\repos\datastructure\binarySearch\obj\Debug\netcoreapp3.1\binarySearch.pdb
+C:\Users\hp\source\repos\datastructure\binarySearch\obj\Debug\netcoreapp3.1\binarySearch.genruntimeconfig.cache
