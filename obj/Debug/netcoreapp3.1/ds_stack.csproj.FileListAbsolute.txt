@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\datastructure\ds_stack\bin\Debug\netcoreapp3.1\ds_stack.exe
+C:\Users\hp\source\repos\datastructure\ds_stack\bin\Debug\netcoreapp3.1\ds_stack.deps.json
+C:\Users\hp\source\repos\datastructure\ds_stack\bin\Debug\netcoreapp3.1\ds_stack.runtimeconfig.json
+C:\Users\hp\source\repos\datastructure\ds_stack\bin\Debug\netcoreapp3.1\ds_stack.runtimeconfig.dev.json
+C:\Users\hp\source\repos\datastructure\ds_stack\bin\Debug\netcoreapp3.1\ds_stack.dll
+C:\Users\hp\source\repos\datastructure\ds_stack\bin\Debug\netcoreapp3.1\ds_stack.pdb
+C:\Users\hp\source\repos\datastructure\ds_stack\obj\Debug\netcoreapp3.1\ds_stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\datastructure\ds_stack\obj\Debug\netcoreapp3.1\ds_stack.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\datastructure\ds_stack\obj\Debug\netcoreapp3.1\ds_stack.AssemblyInfo.cs
+C:\Users\hp\source\repos\datastructure\ds_stack\obj\Debug\netcoreapp3.1\ds_stack.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\datastructure\ds_stack\obj\Debug\netcoreapp3.1\ds_stack.dll
+C:\Users\hp\source\repos\datastructure\ds_stack\obj\Debug\netcoreapp3.1\ds_stack.pdb
+C:\Users\hp\source\repos\datastructure\ds_stack\obj\Debug\netcoreapp3.1\ds_stack.genruntimeconfig.cache
