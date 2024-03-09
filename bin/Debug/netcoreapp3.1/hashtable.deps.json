@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "hashTable/1.0.0": {
+        "dependencies": {
+          "insertionSort": "1.0.0"
+        },
+        "runtime": {
+          "hashTable.dll": {}
+        }
+      },
+      "insertionSort/1.0.0": {
+        "runtime": {
+          "insertionSort.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hashTable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "insertionSort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
