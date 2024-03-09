@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\datastructure\singlyLinkesList\obj\Debug\netcoreapp3.1\singlyLinkesList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\datastructure\singlyLinkesList\obj\Debug\netcoreapp3.1\singlyLinkesList.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\datastructure\singlyLinkesList\obj\Debug\netcoreapp3.1\singlyLinkesList.AssemblyInfo.cs
+C:\Users\hp\source\repos\datastructure\singlyLinkesList\obj\Debug\netcoreapp3.1\singlyLinkesList.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\datastructure\singlyLinkesList\bin\Debug\netcoreapp3.1\singlyLinkesList.exe
+C:\Users\hp\source\repos\datastructure\singlyLinkesList\bin\Debug\netcoreapp3.1\singlyLinkesList.deps.json
+C:\Users\hp\source\repos\datastructure\singlyLinkesList\bin\Debug\netcoreapp3.1\singlyLinkesList.runtimeconfig.json
+C:\Users\hp\source\repos\datastructure\singlyLinkesList\bin\Debug\netcoreapp3.1\singlyLinkesList.runtimeconfig.dev.json
+C:\Users\hp\source\repos\datastructure\singlyLinkesList\bin\Debug\netcoreapp3.1\singlyLinkesList.dll
+C:\Users\hp\source\repos\datastructure\singlyLinkesList\bin\Debug\netcoreapp3.1\singlyLinkesList.pdb
+C:\Users\hp\source\repos\datastructure\singlyLinkesList\obj\Debug\netcoreapp3.1\singlyLinkesList.dll
+C:\Users\hp\source\repos\datastructure\singlyLinkesList\obj\Debug\netcoreapp3.1\singlyLinkesList.pdb
+C:\Users\hp\source\repos\datastructure\singlyLinkesList\obj\Debug\netcoreapp3.1\singlyLinkesList.genruntimeconfig.cache
