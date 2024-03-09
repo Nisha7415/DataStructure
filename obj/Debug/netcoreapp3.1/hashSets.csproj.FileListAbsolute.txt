@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\datastructure\hashSets\bin\Debug\netcoreapp3.1\hashSets.exe
+C:\Users\hp\source\repos\datastructure\hashSets\bin\Debug\netcoreapp3.1\hashSets.deps.json
+C:\Users\hp\source\repos\datastructure\hashSets\bin\Debug\netcoreapp3.1\hashSets.runtimeconfig.json
+C:\Users\hp\source\repos\datastructure\hashSets\bin\Debug\netcoreapp3.1\hashSets.runtimeconfig.dev.json
+C:\Users\hp\source\repos\datastructure\hashSets\bin\Debug\netcoreapp3.1\hashSets.dll
+C:\Users\hp\source\repos\datastructure\hashSets\bin\Debug\netcoreapp3.1\hashSets.pdb
+C:\Users\hp\source\repos\datastructure\hashSets\obj\Debug\netcoreapp3.1\hashSets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\datastructure\hashSets\obj\Debug\netcoreapp3.1\hashSets.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\datastructure\hashSets\obj\Debug\netcoreapp3.1\hashSets.AssemblyInfo.cs
+C:\Users\hp\source\repos\datastructure\hashSets\obj\Debug\netcoreapp3.1\hashSets.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\datastructure\hashSets\obj\Debug\netcoreapp3.1\hashSets.dll
+C:\Users\hp\source\repos\datastructure\hashSets\obj\Debug\netcoreapp3.1\hashSets.pdb
+C:\Users\hp\source\repos\datastructure\hashSets\obj\Debug\netcoreapp3.1\hashSets.genruntimeconfig.cache
