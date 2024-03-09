@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\datastructure\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.exe
+C:\Users\hp\source\repos\datastructure\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.deps.json
+C:\Users\hp\source\repos\datastructure\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.runtimeconfig.json
+C:\Users\hp\source\repos\datastructure\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.runtimeconfig.dev.json
+C:\Users\hp\source\repos\datastructure\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.dll
+C:\Users\hp\source\repos\datastructure\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.pdb
+C:\Users\hp\source\repos\datastructure\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\datastructure\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\datastructure\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.AssemblyInfo.cs
+C:\Users\hp\source\repos\datastructure\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\datastructure\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.dll
+C:\Users\hp\source\repos\datastructure\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.pdb
+C:\Users\hp\source\repos\datastructure\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.genruntimeconfig.cache
