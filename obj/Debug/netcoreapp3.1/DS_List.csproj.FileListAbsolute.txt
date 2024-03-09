@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\datastructure\DS_List\bin\Debug\netcoreapp3.1\DS_List.exe
+C:\Users\hp\source\repos\datastructure\DS_List\bin\Debug\netcoreapp3.1\DS_List.deps.json
+C:\Users\hp\source\repos\datastructure\DS_List\bin\Debug\netcoreapp3.1\DS_List.runtimeconfig.json
+C:\Users\hp\source\repos\datastructure\DS_List\bin\Debug\netcoreapp3.1\DS_List.runtimeconfig.dev.json
+C:\Users\hp\source\repos\datastructure\DS_List\bin\Debug\netcoreapp3.1\DS_List.dll
+C:\Users\hp\source\repos\datastructure\DS_List\bin\Debug\netcoreapp3.1\DS_List.pdb
+C:\Users\hp\source\repos\datastructure\DS_List\obj\Debug\netcoreapp3.1\DS_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\datastructure\DS_List\obj\Debug\netcoreapp3.1\DS_List.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\datastructure\DS_List\obj\Debug\netcoreapp3.1\DS_List.AssemblyInfo.cs
+C:\Users\hp\source\repos\datastructure\DS_List\obj\Debug\netcoreapp3.1\DS_List.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\datastructure\DS_List\obj\Debug\netcoreapp3.1\DS_List.dll
+C:\Users\hp\source\repos\datastructure\DS_List\obj\Debug\netcoreapp3.1\DS_List.pdb
+C:\Users\hp\source\repos\datastructure\DS_List\obj\Debug\netcoreapp3.1\DS_List.genruntimeconfig.cache
